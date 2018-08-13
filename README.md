@@ -1,2 +1,2 @@
 # how-do-I
-A personal reference documented how I get things done
+A personal reference documenting how I get things done
