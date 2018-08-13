@@ -7,7 +7,9 @@ manual: <https://git-scm.com/docs/git-commit-tree>
 - ???
 
 # Example
-- empty ophan root  ```bash
+- empty ophan root  
+
+```bash
 tree=`git hash-object -wt tree --stdin < /dev/null`
 commit=`git commit-tree -m 'root commit' $tree`
 git rebase --onto $commit --root master```
