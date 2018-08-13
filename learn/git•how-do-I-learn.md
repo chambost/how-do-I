@@ -19,6 +19,11 @@ title: How do I learn git?
 ## Bottom up
 - <https://jwiegley.github.io/git-from-the-bottom-up/>
 
+# Advanced
+- <https://www.askaswiss.com/2016/01/12-useful-advanced-git-commands.html>
+- <https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging>
+- <https://www.atlassian.com/git/tutorials/advanced-overview>
+
 # Plumbing
 - <https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#the-workflow>
 
