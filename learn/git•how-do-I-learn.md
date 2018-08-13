@@ -28,6 +28,8 @@ title: How do I learn git?
 
 ## Orphans
 - <https://csinaction.com/2016/02/12/orphaned-brachnes-in-git/>
+- Low-level details (aka plumbing)
+  - <https://stackoverflow.com/questions/645450/insert-a-commit-before-the-root-commit-in-git?noredirect=1&lq=1>
 
 ## Rebase
 ### For rebase
