@@ -12,6 +12,6 @@ manual: <https://git-scm.com/docs/git-checkout>
   - See: <https://stackoverflow.com/a/47080741>
 
 # git checkout <tree-ish>
-- destroy any progress in working dir and revert to HEAD
+- destroy any progress in working dir towards specified file/folder and revert to HEAD
 
 
