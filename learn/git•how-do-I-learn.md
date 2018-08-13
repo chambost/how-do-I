@@ -18,6 +18,7 @@ title: How do I learn git?
 - <https://jwiegley.github.io/git-from-the-bottom-up/>
 
 # Branching workflows
+- <https://stackoverflow.com/questions/2621610/what-git-branching-models-work-for-you>
 
 ## BPF (Branch Per Feature)
 - <http://dymitruk.com/blog/2012/02/05/branch-per-feature/>
@@ -28,6 +29,9 @@ title: How do I learn git?
 
 # Book
 - Rewriting history <https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History>
+
+# Bash prompts
+- <https://www.atlassian.com/git/articles/git-forks-and-upstreams>
 
 # Miscellaneous
 
