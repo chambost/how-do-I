@@ -12,5 +12,6 @@ manual: <https://git-scm.com/docs/git-commit-tree>
 ```bash
 tree=`git hash-object -wt tree --stdin < /dev/null`
 commit=`git commit-tree -m 'root commit' $tree`
-git rebase --onto $commit --root master```
+git rebase --onto $commit --root master
+```
   - <https://stackoverflow.com/questions/645450/insert-a-commit-before-the-root-commit-in-git?noredirect=1&lq=1>
