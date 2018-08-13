@@ -4,6 +4,7 @@ title: How do I learn git?
 
 # Best practices
 - <https://sethrobertson.github.io/GitBestPractices/>
+ - <http://eagain.net/articles/git-for-computer-scientists/>
 
 # Branching workflows
 
