@@ -19,6 +19,9 @@ title: How do I learn git?
 ## Bottom up
 - <https://jwiegley.github.io/git-from-the-bottom-up/>
 
+# Plumbing
+- <https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#the-workflow>
+
 # Branching workflows
 - <https://stackoverflow.com/questions/2621610/what-git-branching-models-work-for-you>
 
