@@ -29,6 +29,13 @@ title: How do I learn git?
 ## Orphans
 - <https://csinaction.com/2016/02/12/orphaned-brachnes-in-git/>
 
+## Rebase
+### For rebase
+- TODO
+### Against rebase
+- <https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1>
+
+
 # Book
 - Rewriting history <https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History>
 
