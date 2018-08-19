@@ -11,6 +11,12 @@ title: How do I learn git?
 - <https://sethrobertson.github.io/GitBestPractices/>
 - <http://eagain.net/articles/git-for-computer-scientists/>
 
+# Understanding Git Conceptually
+- <https://www.sbf5.com/~cduan/technical/git/>
+- <https://dzone.com/articles/8-useful-but-not-well-known-git-concepts>
+- <https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/>
+- <http://www.intertech.com/Blog/introduction-to-git-concepts/>
+
 # Intro
 - <https://tom.preston-werner.com/2009/05/19/the-git-parable.html>
 - <http://www-cs-students.stanford.edu/~blynn/gitmagic/book.html>
