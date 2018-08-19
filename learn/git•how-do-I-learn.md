@@ -58,7 +58,17 @@ title: How do I learn git?
 # Bash prompts
 - <https://www.atlassian.com/git/articles/git-forks-and-upstreams>
 
+# Useful commands
+- <https://orga.cat/posts/most-useful-git-commands>
+
 # Miscellaneous
 
 ## Folder-centric views
 - Reverting folders <https://stackoverflow.com/a/42224112>
+
+## Marking a group of files
+- <https://stackoverflow.com/questions/41456892/labeling-marking-a-group-of-files-in-git>
+- <https://stackoverflow.com/questions/7239333/how-do-i-commit-only-some-files>
+- <https://ask.metafilter.com/249100/Can-a-Git-Branch-Contain-Only-a-Sub-Set-of-the-Repository>
+- <https://stackoverflow.com/questions/43330023/using-git-to-select-a-subset-of-files>
+- <https://stackoverflow.com/questions/34461433/git-create-a-branch-to-manage-partial-files>
