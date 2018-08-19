@@ -20,3 +20,6 @@ manual: <https://git-scm.com/docs/git-stash>
 ## git stash drop
 - remove a stash
 - to reverse a drop: <https://stackoverflow.com/questions/89332/how-to-recover-a-dropped-stash-in-git>
+
+# How to backup a git stash
+- <https://stackoverflow.com/questions/42358448/how-to-backup-git-stash-content>
