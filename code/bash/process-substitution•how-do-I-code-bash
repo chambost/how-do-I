@@ -1,0 +1,9 @@
+---
+title: How do I code process substitution in Bash
+---
+
+# Sample
+
+```
+diff <( echo a ) <( echo b )
+```
